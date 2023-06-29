@@ -11,4 +11,5 @@
 *   Make a way to chek if the motion of the object will be visible. DONE
 *   Add this check to automatic image generation somehow. DONE
 *   Try doing a binary classifier to see if a CNN can identify moving object. DONE
-*   Add random direction to data generation
+*   Add random direction to data generation DONE
+*   Add other CCNs for other values
